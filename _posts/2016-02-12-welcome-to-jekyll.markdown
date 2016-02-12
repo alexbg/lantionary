@@ -2,7 +2,7 @@
 layout: post
 title:  "Welcome to Lantionary"
 shortDate:   2016-02-12
-categories: lantionary welcome
+categories:
 ---
 It is the start of Lationary a desktop application to help
 you to learn languages, it is still under development so any thing can change, but
